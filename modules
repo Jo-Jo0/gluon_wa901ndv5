@@ -1,6 +1,6 @@
 GLUON_FEEDS='openwrt gluon routing luci'
 
-LEDE_REPO=https://github.com/Jo-Jo0/source/tree/wa901ndv5
+LEDE_REPO=https://github.com/Jo-Jo0/source/
 LEDE_BRANCH=wa901ndv5
 LEDE_COMMIT=c47d34fbce4fc50e92911323cdec59a920baabdd
 
